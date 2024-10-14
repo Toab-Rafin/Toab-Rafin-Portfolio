@@ -10,15 +10,15 @@ Welcome to my portfolio! I am a data analyst skilled in **MySQL**, **Python**, *
 
 ## 🔍 Featured Projects
 
-### 1. [Project Title](link to project folder)
-**Tools used**:  
-**Description**: 
+### 1. [COFFEE SHOP SALES] (https://github.com/Toab-Rafin/PowerBi-CoffeeShopSales-)
+**Tools used**: MySQL & PowerBi
+**Description**: 4-5 months data analysis which contains data cleaning & basic manupulation in MySQl. Dynamic powerBi dashboard with MoM difference, calander heatmap & daily sales with average line.
 
-### 2. [Project Title](link to project folder)
+### 2. [Project Title] (link to project folder)
 **Tools used**:
 **Description**: 
 
-### 3. [Project Title](link to project folder)
+### 3. [Project Title] (link to project folder)
 **Tools used**:  
 **Description**: 
 
